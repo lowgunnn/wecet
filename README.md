@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Fliinko.Fliinko)
-[!trophy](https://github-profile-trophy.vercel.app/?username=Fliinko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fliinko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## I'm a BsC in Artificial Intelligence student at the University of Malta
   Currently I am working on my thesis titled 'Mobile Gait Analysis'
