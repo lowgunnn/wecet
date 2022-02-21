@@ -1,6 +1,7 @@
 ### Hi There 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Fliinko.Fliinko)
+[!trophy](https://github-profile-trophy.vercel.app/?username=Fliinko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## I'm a BsC in Artificial Intelligence student at the University of Malta
   Currently I am working on my thesis titled 'Mobile Gait Analysis'
@@ -9,7 +10,7 @@
   
   Although my thesis is very computer vision based, I have experience working with NLP and Machine Learning applications 
 
-## Contact Me 
+## About Me 
 <p align="center">
  <a href="https://github.com/Fliinko/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.kaggle.com/owenagius" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
