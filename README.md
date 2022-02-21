@@ -24,7 +24,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src= "https://datarebellion.com/wp-content/uploads/2018/04/anaconda-logo-300x300.png" alt="Anaconda" height="40" style="vertical-align:top; margin:4px">
-<img src="https://mpng.subpng.com/20180517/bce/kisspng-java-runtime-environment-software-development-kit-5afdf2eb843ce5.8367355515265922355417.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
 </p>
 
