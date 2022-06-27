@@ -3,7 +3,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fliinko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## I'm a BsC in Artificial Intelligence student at the University of Malta
-  Currently I am working on my thesis titled 'Mobile Gait Analysis'
+  Recently I submitted my thesis titled 'Mobile Gait Analysis'. 
+  Just a small outline, the thesis aims to classify regular and irregular 'gait cycles' using a smart-phone or smart-device
   
   I mainly work with Python but I sometimes dabble around with Java for app development 
   
@@ -26,13 +27,19 @@ I'm a 20 year old student studying Artificial Intelligence at the University of 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src= "https://datarebellion.com/wp-content/uploads/2018/04/anaconda-logo-300x300.png" alt="Anaconda" height="40" style="vertical-align:top; margin:4px">
-<img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## Currently Learning...
+
+<p align="center">
+<img src="https://miro.medium.com/max/376/1*-OYnDZkwBj6L-ZbCja5L9g.png" alt="PySpark" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i.pinimg.com/originals/05/8a/16/058a16cd476728f2780b761f77575cdf.png" alt="Databricks" height="40" style="vertical-align:top; margin:4px">
 
 ## More...
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fliinko&show_icons=true&theme=tokyonight)
