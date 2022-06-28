@@ -46,5 +46,5 @@ I'm a 20 year old student studying Artificial Intelligence at the University of 
 </p>
 
 ## More...
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fliinko&show_icons=true&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fliinko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wecet&show_icons=true&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wecet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
