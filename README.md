@@ -43,6 +43,7 @@ I'm a 20 year old student studying Artificial Intelligence at the University of 
 <img src="https://miro.medium.com/max/376/1*-OYnDZkwBj6L-ZbCja5L9g.png" alt="PySpark" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://i.pinimg.com/originals/05/8a/16/058a16cd476728f2780b761f77575cdf.png" alt="Databricks" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## More...
