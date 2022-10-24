@@ -2,17 +2,16 @@
 
 
 
-## I'm a BsC in Artificial Intelligence student at the University of Malta
-  Recently I submitted my thesis titled 'Mobile Gait Analysis'. 
-  Just a small outline, the thesis aims to classify regular and irregular 'gait cycles' using a smart-phone or smart-device
+## I'm a MSc in Artificial Intelligence student at the University of Malta
+  Recently I submitted and graduated with my thesis titled 'Mobile Gait Analysis', also winning Best ICT Project for Social Impact.  Just a small outline, the thesis    aims to classify regular and irregular 'gait cycles' using a smart-phone or smart-device
   
-  I mainly work with Python but I sometimes dabble around with Java for app development 
+  I mainly work with Python and React
   
-  Although my thesis is very computer vision based, I have experience working with NLP and Machine Learning applications 
+  Although I aim to work in the AI in Medicine/Health Care bubble which is very computer vision based, I have experience working with NLP and Machine Learning applications 
 
 ## About Me 
 
-I'm a 20 year old student studying Artificial Intelligence at the University of Malta. But besides that, I'm an avid cyclist and footballer. I also really enjoy listening to music. 
+I'm a 20 year old student currently reading for my Masters in Artificial Intelligence at the University of Malta. But besides that, I'm an avid cyclist and footballer. I also really enjoy listening to music. 
 
 <p align="center">
  <a href="https://www.kaggle.com/owenagius" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
