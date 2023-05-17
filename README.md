@@ -3,15 +3,15 @@
 
 
 ## I'm a MSc in Artificial Intelligence student at the University of Malta
-  Recently I submitted and graduated with my thesis titled 'Mobile Gait Analysis', also winning Best ICT Project for Social Impact.  Just a small outline, the thesis    aims to classify regular and irregular 'gait cycles' using a smart-phone or smart-device
+  Recently I submitted and graduated with my thesis titled 'Mobile Gait Analysis', also winning Best ICT Project for Social Impact alongside a runners-up spot at Tech.mt's Best ICT Academic Project.  Just a small outline, the thesis aims to classify regular and irregular 'gait cycles' using a smart-phone or smart-device. The thesis is now published by the International Journal of Semantic Computing following a presentation at the IEEE BigMM Conference.
   
-  I mainly work with Python and React
+  Currently I am employed at iGolf.One as an AI Specialist in which I mainly work with Python. But past employments made me proficient in languages such as Javascript (Node and React) and C++
   
-  Although I aim to work in the AI in Medicine/Health Care bubble which is very computer vision based, I have experience working with NLP and Machine Learning applications 
+  Although my academic inspiration in the AI in Medicine/Health Care bubble, I have experience working with NLP, Computer Vision and Machine/Deep Learning applications. Moreover, more published work includes experience with Dynamic Difficulty within an AI in Education solution.
 
 ## About Me 
 
-I'm a 20 year old student currently reading for my Masters in Artificial Intelligence at the University of Malta. But besides that, I'm an avid cyclist and footballer. I also really enjoy listening to music. 
+I'm a 21 year old student currently reading for my Masters in Artificial Intelligence at the University of Malta. But besides that, I'm an avid cyclist and footballer. I also really enjoy listening to music. 
 
 <p align="center">
  <a href="https://www.kaggle.com/owenagius" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
