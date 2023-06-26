@@ -36,8 +36,3 @@ I'm a 21 year old student currently reading for my Masters in Artificial Intelli
 <img src= "https://e7.pngegg.com/pngimages/814/303/png-clipart-honda-anaconda-python-data-science-honda-text-logo.png" alt="Anaconda" height="40" style="vertical-align:top; margin:4px">
 <img src= "https://www.pngfind.com/pngs/m/597-5975946_microsoft-azure-logo-svg-hd-png-download.png" alt="Azure" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-
-## More...
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wecet&show_icons=true&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=wecet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
