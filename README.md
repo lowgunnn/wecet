@@ -11,7 +11,7 @@
 
 ## About Me 
 
-I'm a 21 year old student currently reading for my Masters in Artificial Intelligence at the University of Malta. But besides that, I'm an avid cyclist and footballer. I also really enjoy listening to music. 
+I'm a 22 year old student currently reading for my Masters in Artificial Intelligence at the University of Malta. But besides that, I'm an avid cyclist and footballer. I also really enjoy listening to music. 
 
 <p align="center">
  <a href="https://www.kaggle.com/owenagius" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
